@@ -6,8 +6,8 @@
 	<ChildItems>
 		<Button name="СделатьХорошо" id="1">
 			<Type>UsualButton</Type>
-			<Width>60</Width>
-			<Height>5</Height>
+			<Width>50</Width>
+			<Height>4</Height>
 			<CommandName>Form.Command.СделатьХорошо</CommandName>
 			<Font height="10" bold="true" kind="AutoFont"/>
 			<ExtendedTooltip name="СделатьХорошоРасширеннаяПодсказка" id="2"/>
